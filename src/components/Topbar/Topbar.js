@@ -15,7 +15,6 @@ const Details = ({ language }) => {
 			<h3>
 				{languages[language].lastChecked}: {t[0]} {t[1]}
 			</h3>
-			<h3>{languages[language].currency}: USD</h3>
 		</StyledDetails>
 	);
 };
