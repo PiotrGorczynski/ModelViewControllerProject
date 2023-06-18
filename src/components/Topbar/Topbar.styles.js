@@ -17,8 +17,8 @@ export const Wrapper = styled.div`
 `;
 
 export const StyledDetails = styled.div`
-    display: flex;
-    align-items:center;
-    flex-direction: column;
-    gap: 0.7rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 0.7rem;
 `;
