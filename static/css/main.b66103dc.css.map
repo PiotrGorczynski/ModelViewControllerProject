@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.b66103dc.css","mappings":"AAAA,OACI,qBAAsB,CACtB,sBACJ","sources":["index.css"],"sourcesContent":["body, * {\r\n    box-sizing: border-box;\r\n    font-family: sans-serif;\r\n}"],"names":[],"sourceRoot":""}
